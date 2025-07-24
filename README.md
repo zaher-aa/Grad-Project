@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/GSG-G11/Quizzer">
+  <a href="https://github.com/zaher-aa/Grad-Project.git">
     <img src="https://i.imgur.com/0oPLZFX.png" alt="Logo" width="160" height="160">
   </a>
 
@@ -24,9 +24,9 @@
      .
     <a href="https://www.figma.com/file/pV4aL8mUOgq4Hv2Q58qgFO/Quizzer">Design Link</a>
     ·
-    <a href="https://github.com/GSG-G11/Quizzer/issues">Report Bug</a>
+    <a href="https://github.com/Grad-Project/issues">Report Bug</a>
     ·
-    <a href="https://github.com/GSG-G11/Quizzer/issues">Request Feature</a>
+    <a href="https://github.com/Grad-Project/issues">Request Feature</a>
   </p>
 </div>
 
@@ -129,7 +129,7 @@ To get a local copy up and running follow these simple example steps.
 1. Create a free account at [Cloudinary](https://cloudinary.com/)
 2. Clone the repo
    ```sh
-   git clone https://github.com/GSG-G11/Quizzer.git
+   git clone https://github.com/zaher-aa/Grad-Project.git
    ```
 3. Install NPM packages
    ```sh
@@ -226,7 +226,7 @@ To get a local copy up and running follow these simple example steps.
 - [x] Create a new quiz (backend).
 - [ ] Create a new quiz (frontend).
 
-See the [open issues](https://github.com/GSG-G11/Quizzer/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/zaher-aa/Grad-Project/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -263,13 +263,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact <span id="contact"></span>
 ### Our Great Contributors
 - Zaher J. Abuamro - [@zaher-aa](https://github.com/zaher-aa) - zaherabuamro@gmail.com
-- Amjad Yahia Hassan - [@amjed-98](https://github.com/amjed-98) - amjedyehia1998@gmail.com
-- Khaled El Khudary - [@khaled-samy](https://github.com/khaled-samy) - khaled.s.elkhudary@gmail.com
+- Mahmoud Abu Saqer - [@Mahmoud-Abu-saqer](https://github.com/Mahmoud-Abu-saqer) - mahmoudabusaqer@gmail.com
 
-### Our Great Team Leader
-- Muhammad Abdulhadi - [@Mu7ammadAbed](https://github.com/Mu7ammadAbed) - mu7ammadabed@gmail.com
 
-Project Link: [https://github.com/GSG-G11/Quizzer](https://github.com/GSG-G11/Quizzer)
+Project Link: [https://github.com/zaher-aa/Grad-Project](https://github.com/zaher-aa/Grad-Project)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -283,15 +280,15 @@ Project Link: [https://github.com/GSG-G11/Quizzer](https://github.com/GSG-G11/Qu
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/GSG-G11/Quizzer?style=for-the-badge
-[contributors-url]: https://github.com/GSG-G11/Quizzer/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/GSG-G11/Quizzer?style=for-the-badge
-[forks-url]: https://github.com/GSG-G11/Quizzer/network/members
-[stars-shield]: https://img.shields.io/github/stars/GSG-G11/Quizzer?style=for-the-badge
-[stars-url]: https://github.com/GSG-G11/Quizzer/stargazers
-[issues-shield]: https://img.shields.io/github/issues/GSG-G11/Quizzer?style=for-the-badge
-[issues-url]: https://github.com/GSG-G11/Quizzer/issues
-[license-shield]: https://img.shields.io/github/license/GSG-G11/Quizzer?style=for-the-badge
-[license-url]: https://github.com/GSG-G11/Quizzer/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/zaher-aa/Grad-Project?style=for-the-badge
+[contributors-url]: https://github.com/GSG-zaher-aa/Grad-Project/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/zaher-aa/Grad-Project?style=for-the-badge
+[forks-url]: https://github.com/zaher-aa/Grad-Project/network/members
+[stars-shield]: https://img.shields.io/github/stars/zaher-aa/Grad-Project?style=for-the-badge
+[stars-url]: https://github.com/zaher-aa/Grad-Project/stargazers
+[issues-shield]: https://img.shields.io/github/issues/zaher-aa/Grad-Project?style=for-the-badge
+[issues-url]: https://github.com/zaher-aa/Grad-Project/issues
+[license-shield]: https://img.shields.io/github/license/zaher-aa/Grad-Project?style=for-the-badge
+[license-url]: https://github.com/zaher-aa/Grad-Project/blob/master/LICENSE.txt
 
 [product-screenshot]: images/screenshot.png
